@@ -1,2 +1,4 @@
-# CS_310H_HW1
-Fall 2026
+Project recording:
+https://youtu.be/CwDDBlFZDEk?si=Jiedu-uOzYdF8L9f
+
+GitHub repo link:
